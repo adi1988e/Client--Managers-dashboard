@@ -1,7 +1,7 @@
 import CategoriesTable from "../features/categories/CategoriesTable";
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
-import AddCategory from "../features/Categories/AddCategory";
+import AddCategory from "../features/categories/AddCategory";
 
 function Categories() {
   return (
