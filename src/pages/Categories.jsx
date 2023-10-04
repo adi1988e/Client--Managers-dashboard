@@ -1,4 +1,4 @@
-import CategoriesTable from "../features/Categories/CategoriesTable";
+import CategoriesTable from "../features/categories/CategoriesTable";
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
 import AddCategory from "../features/Categories/AddCategory";
